@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BYU Sandbox!**
 
-- 🌱 I’m currently learning **Swift, React Native**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **Climbing, Biking, or Skiing**
 
