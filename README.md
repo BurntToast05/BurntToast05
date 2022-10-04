@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **BYU Sandbox!**
 
-- 🌱 I’m currently learning **Swift**
-
 - 💬 Ask me about **Climbing, Biking, or Skiing**
 
 - 📫 How to reach me **corbin.gollaher@gmail.com**
